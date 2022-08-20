@@ -1,0 +1,1 @@
+sudo pacman -Sy pyright clang deno nvim bash-language-server lua-language-server yaml-language-server vim-language-server
